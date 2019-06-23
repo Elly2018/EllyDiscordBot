@@ -1,0 +1,17 @@
+C:\Users\chuel\source\repos\EllyDiscordBot\EllyDiscordSetup\bin\Debug\netcoreapp2.1\win10-x64\hostpolicy.dll
+C:\Users\chuel\source\repos\EllyDiscordBot\EllyDiscordSetup\bin\Debug\netcoreapp2.1\win10-x64\hostfxr.dll
+C:\Users\chuel\source\repos\EllyDiscordBot\EllyDiscordSetup\bin\Debug\netcoreapp2.1\win10-x64\EllyDiscordSetup.exe
+C:\Users\chuel\source\repos\EllyDiscordBot\EllyDiscordSetup\bin\Debug\netcoreapp2.1\win10-x64\EllyDiscordSetup.deps.json
+C:\Users\chuel\source\repos\EllyDiscordBot\EllyDiscordSetup\bin\Debug\netcoreapp2.1\win10-x64\EllyDiscordSetup.runtimeconfig.json
+C:\Users\chuel\source\repos\EllyDiscordBot\EllyDiscordSetup\bin\Debug\netcoreapp2.1\win10-x64\EllyDiscordSetup.runtimeconfig.dev.json
+C:\Users\chuel\source\repos\EllyDiscordBot\EllyDiscordSetup\bin\Debug\netcoreapp2.1\win10-x64\EllyDiscordSetup.dll
+C:\Users\chuel\source\repos\EllyDiscordBot\EllyDiscordSetup\bin\Debug\netcoreapp2.1\win10-x64\EllyDiscordSetup.pdb
+C:\Users\chuel\source\repos\EllyDiscordBot\EllyDiscordSetup\obj\Debug\netcoreapp2.1\win10-x64\EllyDiscordSetup.csprojAssemblyReference.cache
+C:\Users\chuel\source\repos\EllyDiscordBot\EllyDiscordSetup\obj\Debug\netcoreapp2.1\win10-x64\EllyDiscordSetup.csproj.CoreCompileInputs.cache
+C:\Users\chuel\source\repos\EllyDiscordBot\EllyDiscordSetup\obj\Debug\netcoreapp2.1\win10-x64\EllyDiscordSetup.AssemblyInfoInputs.cache
+C:\Users\chuel\source\repos\EllyDiscordBot\EllyDiscordSetup\obj\Debug\netcoreapp2.1\win10-x64\EllyDiscordSetup.AssemblyInfo.cs
+C:\Users\chuel\source\repos\EllyDiscordBot\EllyDiscordSetup\obj\Debug\netcoreapp2.1\win10-x64\EllyDiscordSetup.dll
+C:\Users\chuel\source\repos\EllyDiscordBot\EllyDiscordSetup\obj\Debug\netcoreapp2.1\win10-x64\EllyDiscordSetup.pdb
+C:\Users\chuel\source\repos\EllyDiscordBot\EllyDiscordSetup\bin\Debug\netcoreapp2.1\win10-x64\EllyDiscordCore.dll
+C:\Users\chuel\source\repos\EllyDiscordBot\EllyDiscordSetup\bin\Debug\netcoreapp2.1\win10-x64\EllyDiscordCore.pdb
+C:\Users\chuel\source\repos\EllyDiscordBot\EllyDiscordSetup\obj\Debug\netcoreapp2.1\win10-x64\EllyDiscordSetup.csproj.CopyComplete

@@ -1,0 +1,12 @@
+C:\Users\chuel\source\repos\EllyDiscordBot\ExampleModule\bin\Debug\netcoreapp2.1\win10-x64\ExampleModule.deps.json
+C:\Users\chuel\source\repos\EllyDiscordBot\ExampleModule\bin\Debug\netcoreapp2.1\win10-x64\ExampleModule.dll
+C:\Users\chuel\source\repos\EllyDiscordBot\ExampleModule\bin\Debug\netcoreapp2.1\win10-x64\ExampleModule.pdb
+C:\Users\chuel\source\repos\EllyDiscordBot\ExampleModule\bin\Debug\netcoreapp2.1\win10-x64\EllyDiscordCore.dll
+C:\Users\chuel\source\repos\EllyDiscordBot\ExampleModule\bin\Debug\netcoreapp2.1\win10-x64\EllyDiscordCore.pdb
+C:\Users\chuel\source\repos\EllyDiscordBot\ExampleModule\obj\Debug\netcoreapp2.1\win10-x64\ExampleModule.csprojAssemblyReference.cache
+C:\Users\chuel\source\repos\EllyDiscordBot\ExampleModule\obj\Debug\netcoreapp2.1\win10-x64\ExampleModule.csproj.CoreCompileInputs.cache
+C:\Users\chuel\source\repos\EllyDiscordBot\ExampleModule\obj\Debug\netcoreapp2.1\win10-x64\ExampleModule.AssemblyInfoInputs.cache
+C:\Users\chuel\source\repos\EllyDiscordBot\ExampleModule\obj\Debug\netcoreapp2.1\win10-x64\ExampleModule.AssemblyInfo.cs
+C:\Users\chuel\source\repos\EllyDiscordBot\ExampleModule\obj\Debug\netcoreapp2.1\win10-x64\ExampleModule.csproj.CopyComplete
+C:\Users\chuel\source\repos\EllyDiscordBot\ExampleModule\obj\Debug\netcoreapp2.1\win10-x64\ExampleModule.dll
+C:\Users\chuel\source\repos\EllyDiscordBot\ExampleModule\obj\Debug\netcoreapp2.1\win10-x64\ExampleModule.pdb

@@ -1,0 +1,14 @@
+C:\Users\chuel\source\repos\EllyDiscordBot\EllyDiscordSetup\bin\Debug\netcoreapp2.1\EllyDiscordSetup.deps.json
+C:\Users\chuel\source\repos\EllyDiscordBot\EllyDiscordSetup\bin\Debug\netcoreapp2.1\EllyDiscordSetup.runtimeconfig.json
+C:\Users\chuel\source\repos\EllyDiscordBot\EllyDiscordSetup\bin\Debug\netcoreapp2.1\EllyDiscordSetup.runtimeconfig.dev.json
+C:\Users\chuel\source\repos\EllyDiscordBot\EllyDiscordSetup\bin\Debug\netcoreapp2.1\EllyDiscordSetup.dll
+C:\Users\chuel\source\repos\EllyDiscordBot\EllyDiscordSetup\obj\Debug\netcoreapp2.1\EllyDiscordSetup.csprojAssemblyReference.cache
+C:\Users\chuel\source\repos\EllyDiscordBot\EllyDiscordSetup\obj\Debug\netcoreapp2.1\EllyDiscordSetup.csproj.CoreCompileInputs.cache
+C:\Users\chuel\source\repos\EllyDiscordBot\EllyDiscordSetup\obj\Debug\netcoreapp2.1\EllyDiscordSetup.AssemblyInfoInputs.cache
+C:\Users\chuel\source\repos\EllyDiscordBot\EllyDiscordSetup\obj\Debug\netcoreapp2.1\EllyDiscordSetup.AssemblyInfo.cs
+C:\Users\chuel\source\repos\EllyDiscordBot\EllyDiscordSetup\bin\Debug\netcoreapp2.1\EllyDiscordSetup.pdb
+C:\Users\chuel\source\repos\EllyDiscordBot\EllyDiscordSetup\obj\Debug\netcoreapp2.1\EllyDiscordSetup.dll
+C:\Users\chuel\source\repos\EllyDiscordBot\EllyDiscordSetup\obj\Debug\netcoreapp2.1\EllyDiscordSetup.pdb
+C:\Users\chuel\source\repos\EllyDiscordBot\EllyDiscordSetup\bin\Debug\netcoreapp2.1\EllyDiscordCore.dll
+C:\Users\chuel\source\repos\EllyDiscordBot\EllyDiscordSetup\bin\Debug\netcoreapp2.1\EllyDiscordCore.pdb
+C:\Users\chuel\source\repos\EllyDiscordBot\EllyDiscordSetup\obj\Debug\netcoreapp2.1\EllyDiscordSetup.csproj.CopyComplete

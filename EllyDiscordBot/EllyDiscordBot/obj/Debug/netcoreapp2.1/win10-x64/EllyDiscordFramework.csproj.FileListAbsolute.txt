@@ -1,0 +1,17 @@
+C:\Users\chuel\source\repos\EllyDiscordBot\EllyDiscordBot\bin\Debug\netcoreapp2.1\win10-x64\hostpolicy.dll
+C:\Users\chuel\source\repos\EllyDiscordBot\EllyDiscordBot\bin\Debug\netcoreapp2.1\win10-x64\hostfxr.dll
+C:\Users\chuel\source\repos\EllyDiscordBot\EllyDiscordBot\bin\Debug\netcoreapp2.1\win10-x64\EllyDiscordFramework.exe
+C:\Users\chuel\source\repos\EllyDiscordBot\EllyDiscordBot\bin\Debug\netcoreapp2.1\win10-x64\EllyDiscordFramework.deps.json
+C:\Users\chuel\source\repos\EllyDiscordBot\EllyDiscordBot\bin\Debug\netcoreapp2.1\win10-x64\EllyDiscordFramework.runtimeconfig.json
+C:\Users\chuel\source\repos\EllyDiscordBot\EllyDiscordBot\bin\Debug\netcoreapp2.1\win10-x64\EllyDiscordFramework.runtimeconfig.dev.json
+C:\Users\chuel\source\repos\EllyDiscordBot\EllyDiscordBot\bin\Debug\netcoreapp2.1\win10-x64\EllyDiscordFramework.dll
+C:\Users\chuel\source\repos\EllyDiscordBot\EllyDiscordBot\bin\Debug\netcoreapp2.1\win10-x64\EllyDiscordFramework.pdb
+C:\Users\chuel\source\repos\EllyDiscordBot\EllyDiscordBot\bin\Debug\netcoreapp2.1\win10-x64\EllyDiscordCore.dll
+C:\Users\chuel\source\repos\EllyDiscordBot\EllyDiscordBot\bin\Debug\netcoreapp2.1\win10-x64\EllyDiscordCore.pdb
+C:\Users\chuel\source\repos\EllyDiscordBot\EllyDiscordBot\obj\Debug\netcoreapp2.1\win10-x64\EllyDiscordFramework.csprojAssemblyReference.cache
+C:\Users\chuel\source\repos\EllyDiscordBot\EllyDiscordBot\obj\Debug\netcoreapp2.1\win10-x64\EllyDiscordFramework.csproj.CoreCompileInputs.cache
+C:\Users\chuel\source\repos\EllyDiscordBot\EllyDiscordBot\obj\Debug\netcoreapp2.1\win10-x64\EllyDiscordFramework.AssemblyInfoInputs.cache
+C:\Users\chuel\source\repos\EllyDiscordBot\EllyDiscordBot\obj\Debug\netcoreapp2.1\win10-x64\EllyDiscordFramework.AssemblyInfo.cs
+C:\Users\chuel\source\repos\EllyDiscordBot\EllyDiscordBot\obj\Debug\netcoreapp2.1\win10-x64\EllyDiscordFramework.csproj.CopyComplete
+C:\Users\chuel\source\repos\EllyDiscordBot\EllyDiscordBot\obj\Debug\netcoreapp2.1\win10-x64\EllyDiscordFramework.dll
+C:\Users\chuel\source\repos\EllyDiscordBot\EllyDiscordBot\obj\Debug\netcoreapp2.1\win10-x64\EllyDiscordFramework.pdb
